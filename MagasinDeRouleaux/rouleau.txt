@@ -1,0 +1,5 @@
+Ajouter un Rouleau
+Rechercher une serie de rouleaux
+Sortir un rouleau
+Visualiser
+Quitter
