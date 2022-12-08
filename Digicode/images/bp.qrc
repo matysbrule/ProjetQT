@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>bouton_poussoir.jpg</file>
+    </qresource>
+</RCC>
